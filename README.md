@@ -12,7 +12,12 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 ## Table of Contents
 
 - [CLI](#cli)
+- [Stacks](#stacks)
 
 ## CLI
 
 - [Contena](https://github.com/matti/contena) - Wraps kontena-cli as a container
+
+## Stacks
+
+- [Stolon](https://github.com/kontena/kontena-stacks/tree/master/stolon) - Highly-Available PostgreSQL Cluster
