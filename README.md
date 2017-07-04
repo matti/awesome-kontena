@@ -26,3 +26,4 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 ## Videos
 
 - [DrupalCon Baltimore 2017: Captaining a container ship](https://www.youtube.com/watch?v=B6O04boY3js) - Docker orchestration with Kontena
+- [Having Fun with Kontena Loadbalancer](https://www.youtube.com/watch?v=GpnIMWFkRMo) - Kontena Loadbalancer tips & tricks
