@@ -13,6 +13,7 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 
 - [CLI](#cli)
 - [Stacks](#stacks)
+- [Videos](#videos)
 
 ## CLI
 
@@ -21,3 +22,7 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 ## Stacks
 
 - [Stolon](https://github.com/kontena/kontena-stacks/tree/master/stolon) - Highly-Available PostgreSQL Cluster
+
+## Videos
+
+- [DrupalCon Baltimore 2017: Captaining a container ship](https://www.youtube.com/watch?v=B6O04boY3js) - Docker orchestration with Kontena
