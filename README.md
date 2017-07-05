@@ -21,6 +21,7 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 
 ## Stacks
 
+- [Kong](https://github.com/kontena/kontena-stacks/tree/master/kong) - The open-source API Gateway and Microservices Management Layer
 - [Stolon](https://github.com/kontena/kontena-stacks/tree/master/stolon) - Highly-Available PostgreSQL Cluster
 
 ## Videos
