@@ -18,13 +18,15 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 
 ## CLI
 
-- [Contena](https://github.com/matti/contena) - Wraps kontena-cli as a container
+- [contena](https://github.com/matti/contena) - Wraps kontena-cli as a container that allows easy running of multiple different versions at the same time.
 
 ## Hosting
 
 - [kontena-heroku](https://github.com/matti/kontena-heroku) - Kontena master in Heroku (with SSL and optionally with the free dyno hours, so $0/mo for testing)
 
 ## Stacks
+
+You can search for stacks with `$ kontena stack reg search` - here are some of the most awesome.
 
 - [Kong](https://github.com/kontena/kontena-stacks/tree/master/kong) - The open-source API Gateway and Microservices Management Layer
 - [Stolon](https://github.com/kontena/kontena-stacks/tree/master/stolon) - Highly-Available PostgreSQL Cluster
