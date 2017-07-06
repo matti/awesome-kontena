@@ -12,12 +12,17 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 ## Table of Contents
 
 - [CLI](#cli)
+- [Hosting](#hosting)
 - [Stacks](#stacks)
 - [Videos](#videos)
 
 ## CLI
 
 - [Contena](https://github.com/matti/contena) - Wraps kontena-cli as a container
+
+## Hosting
+
+- [kontena-heroku](https://github.com/matti/kontena-heroku) - Kontena master in Heroku (with SSL and optionally with the free dyno hours, so $0/mo for testing)
 
 ## Stacks
 
