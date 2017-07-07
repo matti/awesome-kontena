@@ -29,6 +29,7 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 You can search for stacks with `$ kontena stack reg search` - here are some of the most awesome.
 
 - [Kong](https://github.com/kontena/kontena-stacks/tree/master/kong) - The open-source API Gateway and Microservices Management Layer
+- [Redis Sentinel](https://github.com/kontena/kontena-stacks/tree/master/redis-sentinel) - Redis Sentinel provides high availability for Redis
 - [Stolon](https://github.com/kontena/kontena-stacks/tree/master/stolon) - Highly-Available PostgreSQL Cluster
 
 ## Videos
