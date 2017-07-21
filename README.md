@@ -11,10 +11,15 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 
 ## Table of Contents
 
+- [Automation](#automation)
 - [CLI](#cli)
 - [Hosting](#hosting)
 - [Stacks](#stacks)
 - [Videos](#videos)
+
+## Automation
+
+- [kontena-ansible](https://github.com/roquie/kontena-ansible) - Ansible playbook and roles for automatically install `Kontena Server` (on master), `Kontena Agent` (per node) and `Kontena CLI`.
 
 ## CLI
 
