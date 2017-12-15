@@ -28,6 +28,7 @@ If you think a link is obsolete, not awesome anymore, feel free to open a pull r
 ## Hosting
 
 - [kontena-heroku](https://github.com/matti/kontena-heroku) - Kontena master in Heroku (with SSL and optionally with the free dyno hours, so $0/mo for testing)
+- [terraform-kontena-gcp](https://github.com/matti/terraform-kontena-gcp) - Google Cloud Platform example using CoreOS/Ignition.
 
 ## Stacks
 
